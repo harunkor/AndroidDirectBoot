@@ -1,0 +1,9 @@
+<resources>
+    <string name="alarm_saved">Alarm scheduled at %1$2d:%2$02d</string>
+    <string name="alarm_deleted">Deleted the alarm at %1$2d:%2$02d</string>
+    <string name="alarm_went_off">Alarm went off at %1$2d:%2$02d</string>
+    <string name="time_24hour_format">%1$2d:%2$02d</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="registered_alarms">Registered alarms</string>
+</resources>
